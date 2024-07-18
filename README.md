@@ -1,1 +1,0 @@
-# LTL-Path-Of-Currency
